@@ -23,6 +23,6 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using.concat(array1, array2)
+def using.concat(my_favorite_things, array2)
   array1.concat(array2)
 end 
