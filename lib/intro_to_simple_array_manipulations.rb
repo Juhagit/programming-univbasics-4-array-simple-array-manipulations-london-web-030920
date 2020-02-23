@@ -3,4 +3,6 @@ array.push(string)
   
 end 
 
+def
+
 
